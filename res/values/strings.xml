@@ -1,9 +1,0 @@
-<resources>
-
-    <string name="app_name">BioEnable Finger Print Hamster Application</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_android__demo">BioEnable Hamster Finger Print Scanner Application</string>
-    <string name="mylink">&lt;a href="http://www.bioenabletech.com">www.bioenabletech.com&lt;/a></string>
-
-</resources>
